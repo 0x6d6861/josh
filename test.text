@@ -1,3 +1,4 @@
-this is our first file!
-this is the other edit
-thi has ben added sljfkjsbf jsnfgbn klsbfibv
+<?php
+	print "Edited by Kingsley";
+	print "Line 2";
+?>
